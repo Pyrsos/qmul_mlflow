@@ -1,6 +1,6 @@
 # MLflow workshop
 
-This repository contains the material from a workshop presentation of MLflow at QMUL (July 2020)
+This repository contains the material for a workshop presentation of MLflow at QMUL (July 2020)
 
 # Guide
 
