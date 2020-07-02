@@ -8,7 +8,7 @@ This repository contains the material for a workshop presentation of MLflow at Q
 2. Create a virtual environment:
     * `pip install virtualenv`
     * `virtualenv mlflow_tutorial`
-    * `source /mlflow_tutorial/bin/activate`
+    * `source mlflow_tutorial/bin/activate`
 3. Install requirements (`pip install -r requirements.txt`)
 
 ## Notebook
