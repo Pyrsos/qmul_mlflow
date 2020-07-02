@@ -1,10 +1,10 @@
 import warnings
 
-import numpy as np
-import pandas as pd
-import sklearn
 import mlflow
 import mlflow.sklearn
+
+import numpy as np
+import sklearn
 
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
