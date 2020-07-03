@@ -1,12 +1,8 @@
-name: conda_tutorial
+name: docker-example
 
-conda_env:
-   conda.yaml
+docker_env:
+  image:  mlflow-docker-example
 
 entry_points:
   main:
-    parameters:
-      alpha: float
-      l1_ratio: {type: float, default: 0.1}
-    command: "python train.py {alpha} {l1_ratio}"
-
+    command: "python boston_house_prices_regression.py"

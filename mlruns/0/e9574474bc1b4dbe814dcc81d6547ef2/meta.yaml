@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/e9574474bc1b4dbe814dcc81d6547ef2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e9574474bc1b4dbe814dcc81d6547ef2
+run_uuid: e9574474bc1b4dbe814dcc81d6547ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1593780943551
+status: 1
+tags: []
+user_id: spyrosstasis
