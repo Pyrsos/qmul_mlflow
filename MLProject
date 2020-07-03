@@ -5,4 +5,4 @@ docker_env:
 
 entry_points:
   main:
-    command: "python boston_house_prices_regression.py"
+    command: "python boston_house_prices_regression_docker.py"
