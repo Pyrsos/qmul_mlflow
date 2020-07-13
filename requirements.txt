@@ -2,6 +2,4 @@ numpy
 scikit-learn
 mlflow==1.9.0
 jupyter
-tensorflow
-torch
 matplotlib
