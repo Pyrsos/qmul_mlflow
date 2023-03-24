@@ -1,5 +1,5 @@
 numpy
 scikit-learn
-mlflow==1.23.1
+mlflow==2.2.1
 jupyter
 matplotlib
